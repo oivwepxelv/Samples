@@ -1,4 +1,4 @@
-# samples (a few brief examples of previous, relevant project types...)
+# samples (a simple A/B test example...)
 
 ## Filler data
 Please note that generate_filler_data.py is a CLI used to create filler_facebook_ad_data.csv (run_generate_filler_data.sh contains the last-used inputs that were used to create the current version of filler_facebook_ad_data.csv). The data in filler_facebook_ad_data.csv is designed to look like a very simple version of real data, exported from Facebook Ads manager, that I have worked with in the past.
